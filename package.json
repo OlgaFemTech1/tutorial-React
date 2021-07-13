@@ -2,7 +2,7 @@
   "name": "tutorial-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://OlgaFemTech1.github.io/tutorial-react",
+  "homepage": "https://OlgaFemTech1.github.io/tutorial-React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
